@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "ffb1d893-8eda-4d56-b332-e2ef03ca1b47"
+      }
+    },
+    "owner": "colonjessej"
   }
 }
